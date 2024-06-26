@@ -21,7 +21,7 @@ const Header = () => {
 
 
         <button> 
-            <a href="https://drive.google.com/file/d/1eZYvfG1eJdz3BNUj_fZxmGjOWsPuUQFu/view?usp=drivesdk" target="_blank" rel="noreferrer" class="btn2" id='button2'><span class="spn2">Resume</span></a>
+            <a href="https://drive.google.com/file/d/1aeMKk_EAb-iER7xxSB3p4GOW8NB4mbYK/view?usp=drive_link" target="_blank" rel="noreferrer" class="btn2" id='button2'><span class="spn2">Resume</span></a>
         </button>
         </div>
     </div>
