@@ -10,12 +10,12 @@ const Experience = () => {
         
 
         <div>
-            <p className='text-3xl text-[#D7E4C0]/50 pt-5'>Project Engineer | Test Engineer L1 | Quality Assurance | RPA Tester | DOP- EOT</p>
+            <p className='text-3xl text-[#D7E4C0]/50 pt-5'>Project Engineer | Test Engineer L1 | Quality Assurance | Functional Tester | DOP- EOT</p>
             <p className='text-2xl text-[#E7F0DC]/40 pt-2 pb-7'>Aug 2022- Present</p>
 
             <ul className='text-gray-400 py-4 space-y-3 list-disc pl-3'>
                 <li>Developed and maintained comprehensive test cases and test data to support testing activities.</li>
-                <li>Proficiently identified and documented over 120 bugs across diverse projects, demonstrating strong bug-reporting skills.</li>
+                <li>Proficiently identified and documented bugs across diverse projects, demonstrating strong bug-reporting skills.</li>
                 <li>Conducted meticulous high-level regression tests to ensure unwavering product quality and reliability.</li>
                 <li>Developed robust test scenarios, aided in test data preparation, and delivered comprehensive test reports.</li>
                 <li>Created detailed Change Requests (CRs) to document project alterations and maintain records accurately.</li>
